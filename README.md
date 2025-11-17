@@ -1,5 +1,7 @@
 ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
- 
+### Name   : kirthick roshan j
+### Reg no : 212223040097
+
 ## Aim: 
 To  configure the Network server and end device for transferring data on the network
 ## Components required: 
@@ -38,6 +40,9 @@ Permissioned access and log-ins for network users Gateway access to the Internet
 6. Add the attributes in the end device as  shown below 
 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/00bff30b-42fc-42d5-9540-285d270e41cb)
+
+ <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/0bc7855f-aa29-48d6-abd5-84427a771397" />
+
  
 7.Using AT commands configure end device in serial port utility
 AT Commands to set initially (Mandatory)
@@ -52,11 +57,10 @@ AT Commands to set initially (Mandatory)
  AT+APPEUI=XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX //
 To set APP Key
  ATZ // To take effective action on below settings (As like saving)
-
-
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/8cdd3290-62ce-4269-b7f7-c87b09240c6b" />
 
 ## OUTPUT 
-
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/f1e58da0-a7b6-4a17-aa99-06ae17afc991" />
 
 ## Result: 
 
